@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MoM/2023-03-20.md",
+                "file": "Literature Notes/Unavailable pappers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MoM/2023-03-20.md",
+                "file": "Literature Notes/Unavailable pappers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MoM/2023-03-20.md",
+                "file": "Literature Notes/Unavailable pappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MoM/2023-03-20.md"
+                "file": "Literature Notes/Unavailable pappers.md"
               }
             }
           },
@@ -158,14 +158,16 @@
   },
   "active": "1c73ef83378d1c2e",
   "lastOpenFiles": [
-    "Literature Notes/DMS SoA summary.md",
     "MoM/2023-03-20.md",
+    "MoM/2022-11-07.md",
+    "MoM/2023-02-27.md",
+    "Literature Notes/DMS SoA summary.md",
+    "Literature Notes/Unavailable pappers.md",
+    "Literature Notes/Reading sumarry.md",
     "01-Papers/literature.bib.md",
     "2023-03-20.md",
     "Literature Notes/00-Computer Vision Algorithms and Application.md",
     "Literature Notes/00-NN Zero to Hero.md",
-    "MoM/2022-11-07.md",
-    "MoM/2023-02-27.md",
     "Strna 261.md",
     "Literature Notes/Images/Pasted image 20221107090628.png",
     "00-Book Resources/Interactive book.md",
