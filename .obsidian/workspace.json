@@ -11,13 +11,28 @@
             "id": "1c73ef83378d1c2e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03-Reading 101/HowToReview.pdf"
+                "file": "Literature Notes/DMS SoA summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d9e46510e0c37d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Papers/01-literature.bib.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Reading 101/HowToReview.pdf",
+                "file": "01-Papers/01-literature.bib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Reading 101/HowToReview.pdf",
+                "file": "01-Papers/01-literature.bib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Reading 101/HowToReview.pdf"
+                "file": "01-Papers/01-literature.bib.md"
               }
             }
           },
@@ -154,20 +169,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c73ef83378d1c2e",
+  "active": "9d9e46510e0c37d9",
   "lastOpenFiles": [
+    "Literature Notes/DMS SoA summary.md",
+    "01-Papers/01-literature.bib.md",
+    "01-Papers/Deep Learning based Face Liveness Detection in Videos.pdf",
+    "01-Papers/Face Spoof Detection by Motion Analysis on the Whole Video Frames.pdf",
+    "01-Papers/Eye gaze tracking based driver monitoring system.pdf",
+    "03-Reading 101/HowToReview.pdf",
     "03-Reading 101/Searching and Reviewing the Computer Science Literature - A Guide for Research Students.pdf",
     "Literature Notes/Unavailable pappers.md",
-    "03-Reading 101/HowToReview.pdf",
     "03-Reading 101/How to read a paper.pdf",
     "03-Reading 101/How To Choose a Good Scientific Problem.pdf",
     "03-Reading 101",
     "MoM/2023-03-20.md",
     "MoM/2022-11-07.md",
     "MoM/2023-02-27.md",
-    "Literature Notes/DMS SoA summary.md",
     "Literature Notes/Reading sumarry.md",
-    "01-Papers/literature.bib.md",
     "2023-03-20.md",
     "Literature Notes/00-Computer Vision Algorithms and Application.md",
     "Literature Notes/00-NN Zero to Hero.md",

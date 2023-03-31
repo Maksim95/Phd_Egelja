@@ -417,3 +417,57 @@ doi = {10.1109/ACCESS.2020.2963960}
   pages={1-8},
 
   doi={10.1109/IEMENTech48150.2019.8981102}}
+
+@INPROCEEDINGS{2017_ICCS_Mavely,
+
+  author={Mavely, Annu George and Judith, J. E. and Sahal, P. A. and Kuruvilla, Steffy Ann},
+
+  booktitle={2017 IEEE International Conference on Circuits and Systems (ICCS)}, 
+
+  title={Eye gaze tracking based driver monitoring system}, 
+
+  year={2017},
+
+  volume={},
+
+  number={},
+
+  pages={364-367},
+
+  doi={10.1109/ICCS1.2017.8326022}}
+
+@INPROCEEDINGS{2017_ICICI-BME_Utami,
+
+  author={Utami, Heni Endah and Nugroho, Hertog},
+
+  booktitle={2017 5th International Conference on Instrumentation, Communications, Information Technology, and Biomedical Engineering (ICICI-BME)}, 
+
+  title={Face Spoof Detection by Motion Analysis on the Whole Video Frames}, 
+
+  year={2017},
+
+  volume={},
+
+  number={},
+
+  pages={213-218},
+
+  doi={10.1109/ICICI-BME.2017.8537751}}
+
+@INPROCEEDINGS{2017_IDAP_Akbulut,
+
+  author={Akbulut, Yaman and Şengür, Abdulkadir and Budak, Ümit and Ekici, Sami},
+
+  booktitle={2017 International Artificial Intelligence and Data Processing Symposium (IDAP)}, 
+
+  title={Deep learning based face liveness detection in videos}, 
+
+  year={2017},
+
+  volume={},
+
+  number={},
+
+  pages={1-4},
+
+  doi={10.1109/IDAP.2017.8090202}}

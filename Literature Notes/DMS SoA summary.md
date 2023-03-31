@@ -238,3 +238,28 @@
 -Room for improvement: 
 	- could be used as a part of driver observation system
 	- make it run in realtime -> improve the performance
+
+# EYE GAZE TRACKING BASED DRIVER MONITORING SYSTEM
+Annu George Mavely , J.E Judith2 ,Sahal P A , Steffy Ann Kuruvilla
+-Advantages: works on RospberyPi, nice algorithm explanation and schema
+-Disadvantages: actually nothing ralted to gaze, similar thing like Aleksa developed just without NN
+-Room for improvement: 
+	- try to track actual eye gaze of the driver 
+
+
+# Face Spoof Detection by Motion Analysis on the Whole Video Frames
+Heni Endah Utami, Hertog Nugroho
+-Advantages: different approach, good accuracy, background analysis, nice comparison with other researches
+-Disadvantages: tested/works ony in lab environmet
+-Room for improvement: 
+	- try with IR cam
+	- tetst it in car
+
+# Deep Learning based Face Liveness Detection in Videos
+Y. Akbulut, A. Şengür, Ü. Budak and S. Ekici
+-Advantages: NN approach, comparison between different NN achitectures, tested on many examples
+-Disadvantages: no clear algorithm, fair accuracy
+-Room for improvement: 
+	- real world testing
+	- find key features which are necessary to detect livness in human face
+
