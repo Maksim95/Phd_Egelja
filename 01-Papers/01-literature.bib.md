@@ -471,3 +471,75 @@ doi = {10.1109/ACCESS.2020.2963960}
   pages={1-4},
 
   doi={10.1109/IDAP.2017.8090202}}
+  
+@INPROCEEDINGS{2014_NEUREL_Milivojevic,
+
+  author={Milivojević, Milan and Gavrovska, Ana and Slavković-Ilić, Marijeta and Reljin, Irini},
+
+  booktitle={12th Symposium on Neural Network Applications in Electrical Engineering (NEUREL)}, 
+
+  title={Cepstral based heart rate estimation}, 
+
+  year={2014},
+
+  volume={},
+
+  number={},
+
+  pages={21-24},
+
+  doi={10.1109/NEUREL.2014.7011448}}
+
+@INPROCEEDINGS{2020_ESGCO_Ernst,
+
+  author={Ernst, Hannes and Scherpf, Matthieu and Malberg, Hagen and Schmidt, Martin},
+
+  booktitle={2020 11th Conference of the European Study Group on Cardiovascular Oscillations (ESGCO)}, 
+
+  title={Color Spaces and Regions of Interest in Camera Based Heart Rate Estimation}, 
+
+  year={2020},
+
+  volume={},
+
+  number={},
+
+  pages={1-2},
+
+  doi={10.1109/ESGCO49734.2020.9158147}}
+
+@INPROCEEDINGS{2018_ICUFN_Baek,
+
+  author={Baek, Jang Woon and Han, Byung-Gil and Kim, Kwang-Ju and Chung, Yun-Su and Lee, Soo-In},
+
+  booktitle={2018 Tenth International Conference on Ubiquitous and Future Networks (ICUFN)}, 
+
+  title={Real-Time Drowsiness Detection Algorithm for Driver State Monitoring Systems}, 
+
+  year={2018},
+
+  volume={},
+
+  number={},
+
+  pages={73-75},
+
+  doi={10.1109/ICUFN.2018.8436988}}
+
+@INPROCEEDINGS{2021_ICCECE_Zhu,
+
+  author={Zhu, Lian and Xiao, Yijing and Li, Xiang},
+
+  booktitle={2021 IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE)}, 
+
+  title={Hybrid driver monitoring system based on Internet of Things and machine learning}, 
+
+  year={2021},
+
+  volume={},
+
+  number={},
+
+  pages={635-638},
+
+  doi={10.1109/ICCECE51280.2021.9342092}}

@@ -263,3 +263,33 @@ Y. Akbulut, A. Şengür, Ü. Budak and S. Ekici
 	- real world testing
 	- find key features which are necessary to detect livness in human face
 
+
+# Cepstral Based Heart Rate Estimation
+Milan Milivojeviü, Ana Gavrovska,Marijeta Slavkoviü-Iliü, Irini Reljin
+-Advantages: similar techniques could be applied to rPPG
+-Disadvantages: contact based approach
+-Room for improvement: 
+	- contact less solution
+	- IR camera
+
+# Color Spaces and Regions of Interest in Camera Based Heart Rate Estimation
+Hannes Ernst, Matthieu Scherpf, Hagen Malberg, and Martin Schmidt
+-Advantages: nice comparioson between different ROIs on the face
+-Disadvantages: 
+-Room for improvement: 
+	- could be useful for future work spoofing, HR estimation
+
+# Real-time Drowsiness Detection Algorithm for Driver State Monitoring Systems
+Jang Woon Baek, Byung-Gil Han, Kwang-Ju Kim, Yun-Su Chung, Soo-In Lee
+-Advantages: works on embedded device, IR camera, very simple algorithm, NN for face detection
+-Disadvantages: eye state monitoring only
+-Room for improvement: 
+	- include HR in calculations, driver activity...
+
+# Hybrid driver monitoring system based on Internet of Things and machine learning
+Lian Zhu,Yijing Xiao, Xiang Li
+-Advantages: Hybrid approach, data collection from phones, werable devices, nice overview of the field
+-Disadvantages: Large ammount of data to be analyzed, could be easily "hacked" in terms of getting "fake" data from phone, werble devices... proposal only, no implementatio, just a brief idea
+-Room for improvement: 
+	- try to implement such a system
+	- make data obtaoined from various devices more reliable
