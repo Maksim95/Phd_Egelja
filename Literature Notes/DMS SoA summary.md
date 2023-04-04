@@ -327,3 +327,13 @@ Lian Zhu,Yijing Xiao, Xiang Li
 -Room for improvement: 
 	- try to implement such a system
 	- make data obtaoined from various devices more reliable
+
+# Camera-based Driver Drowsiness State  Classification Using Logistic Regression Models
+Mercedes-Benz AG
+[[Camera-based Driver Drowsiness State.pdf]]
+Mohamed Hedi Baccour, Frauke Driewer, Tim Sch ̈ack, Enkelejda Kasneci
+-Advantages: nice exoplanation of drowsiness parameters, suggestions to use other parameteres like ego vehicle distance to center line, steering whell angle
+-Disadvantages: eyes and head orientation only
+-Room for improvement: 
+	- involve other drowsiness parameters in calculations
+	- maybe introduce observation of keep lane system interventions, too many or too stiff intervention tells us that driver is drowsy
