@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d9e46510e0c37d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature Notes/DMS SoA summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,14 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d9e46510e0c37d9",
+  "active": "8f95a97334eaea5e",
   "lastOpenFiles": [
     "01-Papers/Camera-based Driver Drowsiness State.pdf",
-    "01-Papers/Detection of Distracted Driver using Convolutional Neural Network.pdf",
     "MoM/2023-04-03.md",
-    "Literature Notes/DMS SoA summary.md",
-    "01-Papers/01-literature.bib.md",
+    "MoM/2022-11-07.md",
     "Literature Notes/Unavailable pappers.md",
+    "Literature Notes/DMS SoA summary.md",
+    "01-Papers/Detection of Distracted Driver using Convolutional Neural Network.pdf",
+    "01-Papers/01-literature.bib.md",
     "MoM/2023-03-20.md",
     "01-Papers/Hybrid driver monitoring system based on Internet of.pdf",
     "01-Papers/Real-time Drowsiness Detection Algorithm for Driver State Monitoring Systems.pdf",
@@ -187,7 +175,6 @@
     "01-Papers/Eye gaze tracking based driver monitoring system.pdf",
     "03-Reading 101/HowToReview.pdf",
     "03-Reading 101/Searching and Reviewing the Computer Science Literature - A Guide for Research Students.pdf",
-    "MoM/2022-11-07.md",
     "MoM/2023-02-27.md",
     "Literature Notes/Reading sumarry.md",
     "2023-03-20.md",
