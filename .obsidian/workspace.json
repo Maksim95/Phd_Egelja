@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/DMS SoA summary.md",
+                "file": "Literature Notes/Unavailable pappers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/DMS SoA summary.md",
+                "file": "Literature Notes/Unavailable pappers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/DMS SoA summary.md",
+                "file": "Literature Notes/Unavailable pappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/DMS SoA summary.md"
+                "file": "Literature Notes/Unavailable pappers.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f95a97334eaea5e",
+  "active": "1c73ef83378d1c2e",
   "lastOpenFiles": [
+    "Literature Notes/DMS SoA summary.md",
+    "Literature Notes/Unavailable pappers.md",
     "01-Papers/Camera-based Driver Drowsiness State.pdf",
     "MoM/2023-04-03.md",
     "MoM/2022-11-07.md",
-    "Literature Notes/Unavailable pappers.md",
-    "Literature Notes/DMS SoA summary.md",
     "01-Papers/Detection of Distracted Driver using Convolutional Neural Network.pdf",
     "01-Papers/01-literature.bib.md",
     "MoM/2023-03-20.md",
@@ -174,7 +174,6 @@
     "01-Papers/Face Spoof Detection by Motion Analysis on the Whole Video Frames.pdf",
     "01-Papers/Eye gaze tracking based driver monitoring system.pdf",
     "03-Reading 101/HowToReview.pdf",
-    "03-Reading 101/Searching and Reviewing the Computer Science Literature - A Guide for Research Students.pdf",
     "MoM/2023-02-27.md",
     "Literature Notes/Reading sumarry.md",
     "2023-03-20.md",
