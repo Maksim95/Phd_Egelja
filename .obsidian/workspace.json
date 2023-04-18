@@ -13,13 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MoM/2023-04-10.md",
+                "file": "Literature Notes/DMS SoA summary.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c339f8781da76d43",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01-Papers/A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection.pdf"
+              }
+            }
+          },
+          {
+            "id": "fb5fd6ec9ac500ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MoM/2023-04-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "441b22a4c521ffd4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04-writing101/02 - Writing tips - Fabrice Theoleyre.pdf"
+              }
+            }
+          },
+          {
+            "id": "ed2ecfc2a3615f81",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01-Papers/Hybrid driver monitoring system based on Internet of.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MoM/2023-04-10.md",
+                "file": "MoM/2023-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MoM/2023-04-10.md",
+                "file": "MoM/2023-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MoM/2023-04-10.md"
+                "file": "MoM/2023-04-18.md"
               }
             }
           },
@@ -156,30 +199,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c73ef83378d1c2e",
+  "active": "fb5fd6ec9ac500ab",
   "lastOpenFiles": [
-    "04-writing101/03 - Writting tips - Jon Crowcroft.pdf",
+    "01-Papers/01-literature.bib.md",
+    "MoM/2023-04-18.md",
+    "MoM/2023-04-10.md",
+    "01-Papers/Comparison of the Deep Learning Methods Applied on Human Eye Detection.pdf",
+    "Literature Notes/DMS SoA summary.md",
+    "01-Papers/A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection.pdf",
+    "Literature Notes/Unavailable pappers.md",
+    "01-Papers/Hybrid driver monitoring system based on Internet of.pdf",
     "04-writing101/02 - Writing tips - Fabrice Theoleyre.pdf",
     "04-writing101/01 - keshav-art-writing.pdf",
     "04-writing101/00 - Mastering the Art - The Two Stages of Writing.pdf",
-    "MoM/2023-04-10.md",
+    "04-writing101/03 - Writting tips - Jon Crowcroft.pdf",
+    "Literature Notes/00-NN Zero to Hero.md",
+    "MoM/2023-02-27.md",
     "04-writing101",
     "MoM/2023-04-03.md",
-    "MoM/2023-02-27.md",
     "MoM/2023-03-20.md",
-    "Literature Notes/Unavailable pappers.md",
-    "Literature Notes/DMS SoA summary.md",
     "01-Papers/Camera-based Driver Drowsiness State.pdf",
     "MoM/2022-11-07.md",
     "01-Papers/Detection of Distracted Driver using Convolutional Neural Network.pdf",
-    "01-Papers/01-literature.bib.md",
-    "01-Papers/Hybrid driver monitoring system based on Internet of.pdf",
-    "01-Papers/Real-time Drowsiness Detection Algorithm for Driver State Monitoring Systems.pdf",
-    "01-Papers/Color Spaces and Regions of Interest in Camera Based.pdf",
     "Literature Notes/Reading sumarry.md",
     "2023-03-20.md",
     "Literature Notes/00-Computer Vision Algorithms and Application.md",
-    "Literature Notes/00-NN Zero to Hero.md",
     "Strna 261.md",
     "Literature Notes/Images/Pasted image 20221107090628.png",
     "00-Book Resources/Interactive book.md",

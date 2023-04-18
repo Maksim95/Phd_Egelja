@@ -11,3 +11,6 @@ https://ieeexplore.ieee.org/document/9602058
 
 # Heart Rate Monitoring With Smartphone Built-In Frontal Digital Camera
 https://ieeexplore.ieee.org/document/9831498
+
+
+
