@@ -543,3 +543,61 @@ doi = {10.1109/ACCESS.2020.2963960}
   pages={635-638},
 
   doi={10.1109/ICCECE51280.2021.9342092}}
+
+@article{210_Transport_Research_Fernandes,
+author = {Fernandes, Ralston and Hatfield, Julie and Job, raymond Soames},
+year = {2010},
+month = {05},
+pages = {179-196},
+title = {A systematic investigation of the differential predictors for speeding, drink-driving, driving while fatigued, and not wearing a seat belt, among young drivers},
+volume = {13},
+journal = {Transportation Research Part F: Traffic Psychology and Behaviour},
+doi = {10.1016/j.trf.2010.04.007}
+}
+
+@inbook{2017_Driver_Distraction_and_ADAS_Cades,
+author = {Cades, David and Crump, Caroline and Lester, Ben and Douglas, Young},
+year = {2017},
+month = {01},
+pages = {1015-1022},
+title = {Driver Distraction and Advanced Vehicle Assistive Systems (ADAS): Investigating Effects on Driver Behavior},
+volume = {484},
+isbn = {978-3-319-41681-6},
+doi = {10.1007/978-3-319-41682-3_83}
+}
+
+@INPROCEEDINGS{2010_European_Signal_processing_Conference_Friedrichs,
+
+  author={Friedrichs, Fabian and Yang, Bin},
+
+  booktitle={2010 18th European Signal Processing Conference}, 
+
+  title={Drowsiness monitoring by steering and lane data based features under real driving conditions}, 
+
+  year={2010},
+
+  volume={},
+
+  number={},
+
+  pages={209-213},
+
+  doi={}}
+
+@INPROCEEDINGS{2018_ICCSSE_Jun,
+
+  author={Ma, Jun and Zhang, Jing and Gong, Zaiyan and Du, Yuchun},
+
+  booktitle={2018 IEEE 4th International Conference on Control Science and Systems Engineering (ICCSSE)}, 
+
+  title={Study on Fatigue Driving Detection Model Based on Steering Operation Features and Eye Movement Features}, 
+
+  year={2018},
+
+  volume={},
+
+  number={},
+
+  pages={472-475},
+
+  doi={10.1109/CCSSE.2018.8724836}}

@@ -30,18 +30,6 @@
             }
           },
           {
-            "id": "fb5fd6ec9ac500ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MoM/2023-04-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "441b22a4c521ffd4",
             "type": "leaf",
             "state": {
@@ -60,9 +48,21 @@
                 "file": "01-Papers/Hybrid driver monitoring system based on Internet of.pdf"
               }
             }
+          },
+          {
+            "id": "af246b95112298b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Papers/01-literature.bib.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MoM/2023-04-18.md",
+                "file": "01-Papers/01-literature.bib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MoM/2023-04-18.md",
+                "file": "01-Papers/01-literature.bib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MoM/2023-04-18.md"
+                "file": "01-Papers/01-literature.bib.md"
               }
             }
           },
@@ -199,14 +199,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb5fd6ec9ac500ab",
+  "active": "af246b95112298b9",
   "lastOpenFiles": [
-    "01-Papers/01-literature.bib.md",
+    "01-Papers/DriverDistractionandADAS-EffectsonDriverBehavior.pdf",
+    "01-Papers/A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection.pdf",
+    "01-Papers/Camera-based heart rate monitoring in highly dynamic light conditions.pdf",
     "MoM/2023-04-18.md",
+    "01-Papers/01-literature.bib.md",
     "MoM/2023-04-10.md",
     "01-Papers/Comparison of the Deep Learning Methods Applied on Human Eye Detection.pdf",
     "Literature Notes/DMS SoA summary.md",
-    "01-Papers/A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection.pdf",
     "Literature Notes/Unavailable pappers.md",
     "01-Papers/Hybrid driver monitoring system based on Internet of.pdf",
     "04-writing101/02 - Writing tips - Fabrice Theoleyre.pdf",
@@ -220,7 +222,6 @@
     "MoM/2023-03-20.md",
     "01-Papers/Camera-based Driver Drowsiness State.pdf",
     "MoM/2022-11-07.md",
-    "01-Papers/Detection of Distracted Driver using Convolutional Neural Network.pdf",
     "Literature Notes/Reading sumarry.md",
     "2023-03-20.md",
     "Literature Notes/00-Computer Vision Algorithms and Application.md",
