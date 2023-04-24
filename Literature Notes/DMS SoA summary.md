@@ -85,7 +85,7 @@
 
 # Driver Drowsiness Detection Based on Eye Movement and Yawning Using Facial  Landmark Analysis
 [[Driver_Drowsiness_Detection_Based_on_Eye.pdf]]
-*Anna Liza A. Ramos, Jomar Christian Erandio, Dean Hur T. Mangilaya, Nathaniel Del Carmen, Erika May Enteria, Leonilo Jean Enriquez*
+*Anna Liza A. Ramos, Jomar Christian  , Dean Hur T. Mangilaya, Nathaniel Del Carmen, Erika May Enteria, Leonilo Jean Enriquez*
 -Advantages: drowness detection using eyes and mouth, single rgb camera(cheap), tested from multiple camera angles
 -Disadvantages: changing light conditions, covered camera
 -Room for improvement: 

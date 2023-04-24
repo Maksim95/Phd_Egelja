@@ -13,44 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/DMS SoA summary.md",
+                "file": "MoM/2023-04-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c339f8781da76d43",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01-Papers/A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection.pdf"
-              }
-            }
-          },
-          {
-            "id": "441b22a4c521ffd4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "04-writing101/02 - Writing tips - Fabrice Theoleyre.pdf"
-              }
-            }
-          },
-          {
-            "id": "ed2ecfc2a3615f81",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01-Papers/Hybrid driver monitoring system based on Internet of.pdf"
-              }
-            }
-          },
-          {
-            "id": "af246b95112298b9",
+            "id": "a3a70642f2596325",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 442.5
   },
   "right": {
     "id": "394e54cd92702f2c",
@@ -128,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Papers/01-literature.bib.md",
+                "file": "MoM/2023-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Papers/01-literature.bib.md",
+                "file": "MoM/2023-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Papers/01-literature.bib.md"
+                "file": "MoM/2023-04-24.md"
               }
             }
           },
@@ -179,14 +148,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "19ed48e548d38f4d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,28 +175,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af246b95112298b9",
+  "active": "1c73ef83378d1c2e",
   "lastOpenFiles": [
-    "01-Papers/DriverDistractionandADAS-EffectsonDriverBehavior.pdf",
-    "01-Papers/A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection.pdf",
-    "01-Papers/Camera-based heart rate monitoring in highly dynamic light conditions.pdf",
     "MoM/2023-04-18.md",
-    "01-Papers/01-literature.bib.md",
-    "MoM/2023-04-10.md",
-    "01-Papers/Comparison of the Deep Learning Methods Applied on Human Eye Detection.pdf",
+    "MoM/2023-04-24.md",
     "Literature Notes/DMS SoA summary.md",
-    "Literature Notes/Unavailable pappers.md",
+    "01-Papers/01-literature.bib.md",
+    "01-Papers/Driver_Drowsiness_Detection_Based_on_Eye.pdf",
     "01-Papers/Hybrid driver monitoring system based on Internet of.pdf",
-    "04-writing101/02 - Writing tips - Fabrice Theoleyre.pdf",
-    "04-writing101/01 - keshav-art-writing.pdf",
-    "04-writing101/00 - Mastering the Art - The Two Stages of Writing.pdf",
-    "04-writing101/03 - Writting tips - Jon Crowcroft.pdf",
+    "01-Papers/Comparison of the Deep Learning Methods Applied on Human Eye Detection.pdf",
+    "01-Papers/A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection.pdf",
+    "01-Papers/A Method of Driver’s Eyes Closure and Yawning Detection for Drowsiness Analysis by Infrared Camera.pdf",
+    "01-Papers/Drowsiness Detection Based On Driver Temporal Behavior Using a New Developed Dataset.pdf",
+    "01-Papers/System for detecting driver’s drowsiness, fatigue and inattention.pdf",
+    "01-Papers/4D A Real-Time Driver Drowsiness Detector Using Deep Learning.pdf",
+    "01-Papers/DriverDistractionandADAS-EffectsonDriverBehavior.pdf",
+    "01-Papers/Camera-based heart rate monitoring in highly dynamic light conditions.pdf",
+    "MoM/2023-04-10.md",
+    "Literature Notes/Unavailable pappers.md",
     "Literature Notes/00-NN Zero to Hero.md",
     "MoM/2023-02-27.md",
-    "04-writing101",
     "MoM/2023-04-03.md",
     "MoM/2023-03-20.md",
-    "01-Papers/Camera-based Driver Drowsiness State.pdf",
     "MoM/2022-11-07.md",
     "Literature Notes/Reading sumarry.md",
     "2023-03-20.md",
