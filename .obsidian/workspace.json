@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d02473bc872d77fa",
+        "id": "c04356c38c0c5782",
         "type": "tabs",
         "children": [
           {
-            "id": "719e0b93836f1ed6",
+            "id": "4217d3d018d19841",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MoM/2023-03-20.md",
-                "mode": "source",
-                "source": false
+                "file": "01-Papers/JESTCH-D-23-00121.pdf"
               }
             }
           }
@@ -64,6 +62,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "90efe426c7acbaac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MoM/2023-03-20.md",
+                "file": "01-Papers/JESTCH-D-23-00121.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MoM/2023-03-20.md",
+                "file": "01-Papers/JESTCH-D-23-00121.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MoM/2023-03-20.md"
+                "file": "01-Papers/JESTCH-D-23-00121.pdf"
               }
             }
           },
@@ -164,16 +170,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "719e0b93836f1ed6",
+  "active": "4217d3d018d19841",
   "lastOpenFiles": [
+    "01-Papers/2020 HPatches Balntas, Lenc et al. 2020.pdf",
+    "MoM/2023-05-03.md",
+    "01-Papers/2013 - Systematic_Review_and_Classification_on_Video_Surv.pdf",
+    "MoM/2023-04-24.md",
+    "Literature Notes/DMS SoA summary.md",
+    "MoM/2023-03-20.md",
     "MoM/2023-02-27.md",
     "MoM/2022-11-07.md",
     "Literature Notes/Unavailable pappers.md",
-    "Literature Notes/DMS SoA summary.md",
-    "MoM/2023-04-24.md",
     "MoM/2023-04-18.md",
     "01-Papers/DriverDistractionandADAS-EffectsonDriverBehavior.pdf",
-    "01-Papers/2013 - Systematic_Review_and_Classification_on_Video_Surv.pdf",
     "01-Papers/JESTCH-D-23-00121.pdf",
     "01-Papers/Face_Biometric_Spoof_Detection_Method_Using_a_Remo.pdf",
     "MoM/2023-04-10.md",
@@ -185,7 +194,6 @@
     "04-writing101/01 - keshav-art-writing.pdf",
     "04-writing101/00 - Mastering the Art - The Two Stages of Writing.pdf",
     "04-writing101",
-    "MoM/2023-03-20.md",
     "Literature Notes/Reading sumarry.md",
     "2023-03-20.md",
     "Literature Notes/00-Computer Vision Algorithms and Application.md",
