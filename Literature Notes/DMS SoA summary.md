@@ -115,7 +115,7 @@
 	- better accuracy 
 	- could be used as face detector for driver monitoring systems
 
-# A Comprehensive Study on Upper-Body Detection with Deep Neural Networks
+# A Comprehensive Study on Upper-Body Detection with Deep Neural Networks ++
 [[A Comprehensive Study on Upper-Body Detection with Deep Neural Networks.pdf]]
 *Yamei Zhu, Lin Zhang*
 -Advantages: analysis of differnet approaches for pedestrian detection CNN, R-CNN, YOLOv2
@@ -124,7 +124,7 @@
 	- analyze on video
 	- more detailed approach for driver and cabin obseravtion
 
-# Multi-Level Classification of Driver Drowsiness by Simultaneous Analysis of ECG and Respiration Signals Using Deep Neural Networks
+# Multi-Level Classification of Driver Drowsiness by Simultaneous Analysis of ECG and Respiration Signals Using Deep Neural Networks ++
 [[Multi-Level Classification of Driver Drowsiness by Simultaneous Analysis of ECG and Respiration Signals Using Deep Neural Networks.pdf]]
 *Ebrahimian, S., Nahvi, A., Tashakori, M., Salmanzadeh, H., Mohseni, O., & Leppänen, T.*
 -Advantages: usage of thermal camera, reliable testing, usage of respiration to monitor the drviver state, VERY NICE TECHNICAL DESCRIPTIONS!!!
@@ -133,7 +133,7 @@
 	- improve accuracy 
 	- add more sensors to drivers seat, seering wheel to mesure driver state variables
 
-# A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection
+# A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection ++
 [[A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection.pdf]]
 *A Bano, A Saxena, G K Das*
 -Advantages: Nice example of overview papper!
@@ -161,7 +161,7 @@
 	- involve multiple cameras
 	- could be usefu as par of driver monitoring system in Interior perception
 
-# Driver Behavior Recognition via Interwoven  Deep Convolutional Neural Nets With Multi-Stream Inputs
+# Driver Behavior Recognition via Interwoven  Deep Convolutional Neural Nets With Multi-Stream Inputs ++
 [[Driver Behavior Recognition via Interwoven Deep Convolutional Neural Nets With Multi-Stream Inputs.pdf]]
 *CHAOYUN ZHANG, RUI LI, WOOJIN KIM, DAESUB YOON AND PAUL PATRAS*
 -Advantages: two cameras, mocked testing environmet to emulate car conditions in lab, realtime calculations, fair accuracy, combination of classic and deep learning computer vision, interesting driver actions detected such as, texting, eating, gaming, drinking.... nice techincal descriptions
@@ -173,7 +173,7 @@
 
 # Driver Drowsiness Detection
 [[Driver Drowsiness Detection.pdf]]
-*K.Satish, A.Lalitesh, K. Bhargavi, M.Sishir Prem and Anjali.T*
+*K.Satish, A.. All , K. Bhargavi, M.Sishir Prem and Anjali.T*
 -Advantages: two factor drowsiness detection, eyes and hand pressure to seering wheel, raltime calculations
 -Disadvantages: accuracy, single camera, not working in vrious light conditions, 
 -Room for improvement: 

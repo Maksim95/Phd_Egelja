@@ -4,20 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "c04356c38c0c5782",
+        "id": "d02473bc872d77fa",
         "type": "tabs",
         "children": [
           {
-            "id": "4217d3d018d19841",
+            "id": "719e0b93836f1ed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MoM/2023-03-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc5d59155c02bb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Papers/01-literature.bib.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6917d24d55e9723d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "01-Papers/JESTCH-D-23-00121.pdf"
+                "file": "01-Papers/Multi-Level Classification of Driver Drowsiness by Simultaneous Analysis of ECG and Respiration Signals Using Deep Neural Networks.pdf"
+              }
+            }
+          },
+          {
+            "id": "eda580c3a01cddc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MoM/2023-05-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14aeb3623517b957",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01-Papers/Driver Drowsiness Detection.pdf"
+              }
+            }
+          },
+          {
+            "id": "f7db70e7da9b9abd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01-Papers/Driver Behavior Recognition via Interwoven Deep Convolutional Neural Nets With Multi-Stream Inputs.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -64,7 +121,7 @@
             }
           },
           {
-            "id": "90efe426c7acbaac",
+            "id": "c0e16ad436956368",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Papers/JESTCH-D-23-00121.pdf",
+                "file": "MoM/2023-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Papers/JESTCH-D-23-00121.pdf",
+                "file": "MoM/2023-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Papers/JESTCH-D-23-00121.pdf"
+                "file": "MoM/2023-05-16.md"
               }
             }
           },
@@ -170,30 +227,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4217d3d018d19841",
+  "active": "eda580c3a01cddc0",
   "lastOpenFiles": [
     "01-Papers/2020 HPatches Balntas, Lenc et al. 2020.pdf",
     "MoM/2023-05-03.md",
-    "01-Papers/2013 - Systematic_Review_and_Classification_on_Video_Surv.pdf",
-    "MoM/2023-04-24.md",
+    "MoM/2023-05-16.md",
     "Literature Notes/DMS SoA summary.md",
+    "01-Papers/Driver Drowsiness Detection.pdf",
+    "01-Papers/Driver Behavior Recognition via Interwoven Deep Convolutional Neural Nets With Multi-Stream Inputs.pdf",
+    "01-Papers/01-literature.bib.md",
+    "01-Papers/Real Time Driver Fatigue Detection System Based on Multi-Task ConNN.pdf",
+    "01-Papers/4D A Real-Time Driver Drowsiness Detector Using Deep Learning.pdf",
+    "01-Papers/Face Key Point Location Method based on Parallel Convolutional Neural Network.pdf",
+    "01-Papers/Remote Pulse Rate Measurement From Near-Infrared Videos.pdf",
+    "01-Papers/Multi-Level Classification of Driver Drowsiness by Simultaneous Analysis of ECG and Respiration Signals Using Deep Neural Networks.pdf",
+    "01-Papers/Camera-based heart rate monitoring in highly dynamic light conditions.pdf",
     "MoM/2023-03-20.md",
     "MoM/2023-02-27.md",
     "MoM/2022-11-07.md",
     "Literature Notes/Unavailable pappers.md",
+    "MoM/2023-04-24.md",
     "MoM/2023-04-18.md",
     "01-Papers/DriverDistractionandADAS-EffectsonDriverBehavior.pdf",
-    "01-Papers/JESTCH-D-23-00121.pdf",
-    "01-Papers/Face_Biometric_Spoof_Detection_Method_Using_a_Remo.pdf",
+    "01-Papers/2013 - Systematic_Review_and_Classification_on_Video_Surv.pdf",
     "MoM/2023-04-10.md",
-    "01-Papers/01-literature.bib.md",
-    "01-Papers/System for detecting driver’s drowsiness, fatigue and inattention.pdf",
     "MoM/2023-04-03.md",
-    "04-writing101/03 - Writting tips - Jon Crowcroft.pdf",
-    "04-writing101/02 - Writing tips - Fabrice Theoleyre.pdf",
-    "04-writing101/01 - keshav-art-writing.pdf",
-    "04-writing101/00 - Mastering the Art - The Two Stages of Writing.pdf",
-    "04-writing101",
     "Literature Notes/Reading sumarry.md",
     "2023-03-20.md",
     "Literature Notes/00-Computer Vision Algorithms and Application.md",
