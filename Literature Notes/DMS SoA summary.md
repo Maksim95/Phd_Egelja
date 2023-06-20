@@ -8,7 +8,7 @@
 	- use NIR cameras for night(changing) light conditions
 	- add more variables to monitor driver state eg. HR, gaze direction, spoofing...
 
-# Face Biometric Spoof Detection Method Using a Remote Photoplethysmography Signal
+# Face Biometric Spoof Detection Method Using a Remote Photoplethysmography Signal++s
 [[Face_Biometric_Spoof_Detection_Method_Using_a_Remo.pdf]]
 *Seung-Hyun Kim 1, Su-Min Jeon 1and Eui Chul Lee*
 -Advantages: single RGB camera, cheap system, very high accuracy
@@ -133,7 +133,7 @@
 	- improve accuracy 
 	- add more sensors to drivers seat, seering wheel to mesure driver state variables
 
-# A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection ++
+# A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection ++ pregledni rad
 [[A Comparative Analysis of using Various Machine learning Techniques based on Drowsy Driver Detection.pdf]]
 *A Bano, A Saxena, G K Das*
 -Advantages: Nice example of overview papper!
@@ -182,7 +182,7 @@
 	- make computer vision algorithm more robus
 	- add more factors beside blink rate to drowsiness calculation
 
-# Appearance-Based Gaze Tracking Through Supervised Machine Learning
+# Appearance-Based Gaze Tracking Through Supervised Machine Learning++g
 [[Appearance-Based Gaze Tracking Through Supervised Machine Learning.pdf]]
 *Daniel Melesse, Mahmoud Khalil, Elias Kagabo, Taikang Ning, and Kevin Huang*
 -Advantages: Cheap computing power Viola Jones detection algorithm, low cost, single RGB(web) camera
@@ -192,7 +192,7 @@
 	- make it work in realtime
 	- use 2 NIR cameras, IR light is very good due to reflection from human eye
 
-# Free-Head Appearance-Based Eye Gaze Estimation on Mobile Devices
+# Free-Head Appearance-Based Eye Gaze Estimation on Mobile Devices++g
 [[Free-Head Appearance-Based Eye Gaze Estimation on Mobile Devices.pdf]]
 *Liu Jigang, Bu Sung Lee, Deepu Rajan*
 -Advantages: device builtin camera usage, very high accuracy, niece theoretical explanation of gaze estimation process, reliable detections
@@ -202,7 +202,7 @@
 	- make it work in realtime ?
 	- nice to use it as a part of driver observation system 
 
-# Implementation of Human Face and Spoofing Detection Using Deep Learning on Embedded Hardware
+# Implementation of Human Face and Spoofing Detection Using Deep Learning on Embedded Hardware++s
 [[Implementation of Human Face and Spoofing Detection Using Deep Learning on Embedded Hardware.pdf]]
 *Saankhya Mondal*
 -Advantages: high accuracy, vorking on video, cheap RGB(web camera)
@@ -275,7 +275,7 @@ Annu George Mavely , J.E Judith2 ,Sahal P A , Steffy Ann Kuruvilla
 	- try to track actual eye gaze of the driver 
 
 
-# Face Spoof Detection by Motion Analysis on the Whole Video Frames
+# Face Spoof Detection by Motion Analysis on the Whole Video Frames++s
 [[Face Spoof Detection by Motion Analysis on the Whole Video Frames.pdf]]
 Heni Endah Utami, Hertog Nugroho
 -Advantages: different approach, good accuracy, background analysis, nice comparison with other researches

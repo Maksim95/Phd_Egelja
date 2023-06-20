@@ -601,3 +601,39 @@ doi = {10.1007/978-3-319-41682-3_83}
   pages={472-475},
 
   doi={10.1109/CCSSE.2018.8724836}}
+
+@INPROCEEDINGS{2021_IEIT_Rosa,
+
+  author={Andrie Asmara, Rosa and Ridwan, Muhammad and Budiprasetyo, Gunawan},
+
+  booktitle={2021 International Conference on Electrical and Information Technology (IEIT)}, 
+
+  title={Haar Cascade and Convolutional Neural Network Face Detection in Client-Side for Cloud Computing Face Recognition}, 
+
+  year={2021},
+
+  volume={},
+
+  number={},
+
+  pages={1-5},
+
+  doi={10.1109/IEIT53149.2021.9587388}}
+  
+@INPROCEEDINGS{2018_IEEE/CVF_Baheti,
+
+  author={Baheti, Bhakti and Gajre, Suhas and Talbar, Sanjay},
+
+  booktitle={2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}, 
+
+  title={Detection of Distracted Driver Using Convolutional Neural Network}, 
+
+  year={2018},
+
+  volume={},
+
+  number={},
+
+  pages={1145-11456},
+
+  doi={10.1109/CVPRW.2018.00150}}
